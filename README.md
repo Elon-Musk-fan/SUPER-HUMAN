@@ -1,4 +1,4 @@
-# Ultroid - UserBot
+# SuperHuman - UserBot
 A stable pluggable Telegram userbot, based on Telethon.
 
 <p align="center">
@@ -48,8 +48,8 @@ and click the below button!  <br />
 - Run the bot:   
 `bash resources/startup/startup.sh`
 
-Made with 💕 by [@TeamUltroid](https://t.me/TeamUltroid). <br />
+Made with 💕 by [@TheName_Is_VISH_0](https://t.me/@SuperHuman_Userbot). <br />
 
 # Credits
-* [Lonami](https://github.com/LonamiWebs/) for [Telethon](https://github.com/LonamiWebs/Telethon)
+* [VISH](https://github.com/Elon-Musk-fan/) for [Telethon](https://github.com/LonamiWebs/Telethon)
 
