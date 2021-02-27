@@ -2,7 +2,7 @@
 A stable pluggable Telegram userbot, based on Telethon.
 
 <p align="center">
-  <img src="./resources/extras/logo_rdm.png" alt="SuperHuman_userbot">
+  <img src=".dropbox.com/s/d7mx1gyolvne77t/20210226_213110.jpg?dl=0" alt="SuperHuman_userbot">
 </p>
 
 [![Stars](https://img.shields.io/github/stars/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/TeamUltroid/Ultroid/stargazers)
